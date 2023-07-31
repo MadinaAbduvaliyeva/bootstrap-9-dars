@@ -1,0 +1,9 @@
+.uchburchak{
+    content: '';
+    border: 15px solid transparent;
+    border-top-color: white;
+    position: absolute;
+    left: 320px;
+    top: 27px;
+    transform: rotate(180deg);
+}
